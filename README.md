@@ -10,11 +10,11 @@ I'm Leo, a developer of Minecraft plugins. I have been contributing to the Minec
 
 ### 🌟 Main Projects
 
-1. **[Guilds](https://www.spigotmc.org/resources/110931/):** The Ultimate Minecraft Guild system.
+1. **[Guilds](https://www.spigotmc.org/resources/110931/)**: The Ultimate Minecraft Guild system.
 
-2. **[BedWars1058-MapSelector Addon](https://polymart.org/resource/2776):** Bedwars1058 Map Selection plugin - **+1500 Total downloads**
+2. **[BedWars1058-MapSelector Addon](https://polymart.org/resource/2776)**: Bedwars1058 Map Selection plugin - **+1500 Total downloads**
 
-3. **[BedWars1058-XpBar Addon](https://polymart.org/resource/2743):** Bedwars1058 Xp Bar plugin - **+1300 Total downloads**
+3. **[BedWars1058-XpBar Addon](https://polymart.org/resource/2743)**: Bedwars1058 Xp Bar plugin - **+1300 Total downloads**
 
 ### 🏠 My Organization
 
