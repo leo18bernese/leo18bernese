@@ -1,5 +1,3 @@
-## 👋 Hello guys!
-
 I'm Leo, a developer of Minecraft plugins. I have been contributing to the Minecraft community for a few years now, mostly creating plugins. I have managed to develop and improve my skills in creating various kinds of projects, from a simple player management plugin to a complex minigame mode.
 
 ### 🚀 About Me
